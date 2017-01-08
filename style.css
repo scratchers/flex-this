@@ -1,11 +1,15 @@
-html, body {
-    height: 100%;
+body {
+    font-size: 16px;
+    font-family: sans-serif;
+    margin: 0;
 }
 
-body {
-    background: #00b1b3;
-    font-family: sans-serif;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+nav > ul {
+    background: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item {
+    
 }
